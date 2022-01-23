@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/aaronleavitt/Clockwork.git/static/css/main.073c9b0a.css",
+    "main.js": "/aaronleavitt/Clockwork.git/static/js/main.896d841e.js",
+    "static/js/787.6df7e000.chunk.js": "/aaronleavitt/Clockwork.git/static/js/787.6df7e000.chunk.js",
+    "index.html": "/aaronleavitt/Clockwork.git/index.html",
+    "main.073c9b0a.css.map": "/aaronleavitt/Clockwork.git/static/css/main.073c9b0a.css.map",
+    "main.896d841e.js.map": "/aaronleavitt/Clockwork.git/static/js/main.896d841e.js.map",
+    "787.6df7e000.chunk.js.map": "/aaronleavitt/Clockwork.git/static/js/787.6df7e000.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.896d841e.js"
+  ]
+}
